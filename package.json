@@ -1,0 +1,12 @@
+{
+  "name": "stillwater-retreat",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node serve.mjs"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
